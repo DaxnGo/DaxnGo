@@ -4,11 +4,12 @@
 
 **I'm Matthew Pangemanan, a tech enthusiast and final-year Computer & Network Engineering student who's passionate about building smart digital solutions from the ground up!**
 
-> *Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!*
+> _Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!_
 
 ###
 
 ## ⌨️ Technologies I Wield
+
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,4 +47,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" style="margin: 10px;"/>
   </a>
 </div>
-
