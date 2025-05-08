@@ -10,5 +10,19 @@
 
 ## ⌨️ Technologies I Wield
 
-## 👋 Let's Connect!
-<p align="center"> <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a> <a href="https://discord.com/users/your-discord-id" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a> <a href="https://yourportfolio.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/> </a> </p>
+## 🌐 Let's Connect!
+
+<p align="center">
+  <a href="mailto:your@email.com">
+    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/email.png" height="48" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/linkedin.png" height="48" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/discord.png" height="48" alt="Discord"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/portfolio.png" height="48" alt="Portfolio"/>
+  </a>
+</p>
