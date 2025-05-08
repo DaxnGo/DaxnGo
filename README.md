@@ -33,7 +33,7 @@
 </div>
 
 ## 🌴 Recents Projects 🌴
-Here are some of the projects I've worked on! From graphic design and web development to cool illustrations, each project is a blend of creativity and technical skills that make them stand out and feel innovative. Let's dive in and check them out!
+Here are some of the projects I’ve brought to life! From web development and data reporting to creative design and tech-driven solutions, each project reflects my passion for learning and building with purpose. Dive in and explore how I blend technical skills with a creative mindset to make each idea count.
 
 ## 🌐 Let's Connect!
 
