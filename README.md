@@ -2,6 +2,6 @@
 
 ###
 
-**I'm KelloVerra, a self-taught artist & software/game development student who thrives on turning plain canvases into lively creations!**
+**I'm Matthew Pangemanan, a tech enthusiast and final-year Computer & Network Engineering student who's passionate about building smart digital solutions from the ground up!**
 
-> *Art isn't just a hobby for me, it's my playground✨!*
+> *Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!*
