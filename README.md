@@ -11,7 +11,7 @@
 ## ⌨️ Technologies I Wield
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" style="margin: 10px;"/>
+  <img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="60" height="60" alt="HTML5" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
