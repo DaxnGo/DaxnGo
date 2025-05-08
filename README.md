@@ -15,11 +15,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="60" height="60" alt="CSS3" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" style="margin: 10px;"/>
+  <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="60" height="60" alt="JavaScript" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" style="margin: 10px;"/>
+  <img src="https://camo.githubusercontent.com/e5a9db5c6c95d9986b877048e7455b6456aa616a2e44d974ef9e72f758826146/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" width="60" height="60" alt="Figma" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" style="margin: 10px;"/>
+  <img src="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="60" height="60" alt="Bootstrap" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="60" height="60" alt="Tailwind CSS" style="margin: 10px;"/>
 </div>
