@@ -12,7 +12,7 @@
 
 ## 🌐 Let's Connect!
 
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
   <a href="mailto:matthewpangemanan15@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="60" height="60" alt="Gmail" style="margin: 10px;"/>
   </a>
