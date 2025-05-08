@@ -2,11 +2,6 @@
 
 ###
 
-<p align="center">
-  🎨 Self-taught Artist & 🧠 Software/Game Development Student <br>
-  I thrive on turning plain canvases into lively creations—whether it's with a brush or with code!
-</p>
+**I'm KelloVerra, a self-taught artist & software/game development student who thrives on turning plain canvases into lively creations!**
 
-<p align="center">
-  <em>Art isn't just a hobby for me, it's my playground ✨</em>
-</p>
+> *Art isn't just a hobby for me, it's my playground✨!*
