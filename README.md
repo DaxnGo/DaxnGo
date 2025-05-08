@@ -1,6 +1,13 @@
 <h1 align="center">🍞 DaxnGo!</h1>
-Front End Developer Re : Zero Lover A Fan of Japanese Culture
-Anime Illustrator Experienced UI/UX Designer Road to Japan###
+<div align="center">
+  <span style="color:#5a656b">Front End Developer</span>&nbsp;&nbsp;
+  <span style="color:#4a5d79">Re : Zero Lover</span>&nbsp;&nbsp;
+  <span style="color:#7a5195">A Fan of Japanese Culture</span><br>
+  <span style="color:#ff7c43">Anime Illustrator</span>&nbsp;&nbsp;
+  <span style="color:#2b6777">Experienced UI/UX Designer</span>&nbsp;&nbsp;
+  <span style="color:#4a5d79">Road to Japan</span>
+</div>
+
 <h1 align="left">Hellow! Nice to meet ya 👋</h1>
 
 **I'm Matthew Pangemanan, a tech enthusiast and final-year Computer & Network Engineering student who's passionate about building smart digital solutions from the ground up!**
