@@ -1,5 +1,5 @@
 <h1 align="center">🍞 DaxnGo!</h1>
-
+<p align="center">Front End Developer | Re : Zero Lover | A Fan of Japanese Culture | Anime Illustrator | Experienced UI/UX Designer | Road to Japan</p>
 ###
 <h1 align="left">Hellow! Nice to meet ya 👋</h1>
 
