@@ -1,10 +1,10 @@
 <h1 align="center">🍞 DaxnGo!</h1>
 <div align="center" style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin: 10px 0;">
   <span style="color:#5a656b">Front End Developer</span>&nbsp;&nbsp;
-  <span style="color:#4a5d79">Re : Zero Lover</span>&nbsp;&nbsp;
-  <span style="color:#7a5195">A Fan of Japanese Culture</span><br>
-  <span style="color:#ff7c43">Anime Illustrator</span>&nbsp;&nbsp;
-  <span style="color:#2b6777">Experienced UI/UX Designer</span>&nbsp;&nbsp;
+  <span style="color:#4a5d79">Slice of Life Obsessed</span>&nbsp;&nbsp;
+  <span style="color:#7a5195">Anime & J-Culture Fan</span><br>
+  <span style="color:#ff7c43">Tech Learner for Life</span>&nbsp;&nbsp;
+  <span style="color:#2b6777">Cloud & Network Enthusiast</span>&nbsp;&nbsp;
   <span style="color:#4a5d79">Road to Japan</span>
 </div>
 
