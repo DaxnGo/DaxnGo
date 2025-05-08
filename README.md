@@ -1,7 +1,4 @@
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hellow! Nice to meet ya 👋</h1>
 
 ###
 
