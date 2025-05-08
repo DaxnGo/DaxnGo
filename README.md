@@ -13,15 +13,15 @@
 ## 🌐 Let's Connect!
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="mailto:your.email@gmail.com" style="text-decoration: none;">
+  <a href="mailto:matthewpangemanan15@gmail.com" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="60" height="60" alt="Gmail" style="margin: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/your.username/" style="text-decoration: none;">
+  <a href="https://www.instagram.com/mattcodes/" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60" height="60" alt="Instagram" style="margin: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/your.username" style="text-decoration: none;">
+  <a href="https://twitter.com/hellopassingby" style="text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="60" height="60" alt="Twitter" style="margin: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,8 +29,8 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="60" height="60" alt="Discord" style="margin: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/1234567890" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60" height="60" alt="WhatsApp" style="margin: 10px;"/>
+  <a href="https://www.linkedin.com/in/matthew-pangemanan/" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" style="margin: 10px;"/>
   </a>
 </div>
 
