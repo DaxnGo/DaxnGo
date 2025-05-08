@@ -44,6 +44,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/matthew-pangemanan/" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/29ba59dbf61686238096817eb317633a4521d0f711882ca1e6a8df7d474d2f43/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" width="60" height="60" alt="LinkedIn" style="margin: 5px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" style="margin: 5px;"/>
   </a>
 </div>
