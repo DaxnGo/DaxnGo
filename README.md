@@ -12,24 +12,25 @@
 
 ## 🌐 Let's Connect!
 
-<div align="center">
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="40" height="40" alt="Gmail"/>
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="mailto:your.email@gmail.com" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="60" height="60" alt="Gmail" style="margin: 10px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/your.username/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40" height="40" alt="Instagram"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/your.username/" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60" height="60" alt="Instagram" style="margin: 10px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/your.username">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="40" height="40" alt="Twitter"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/your.username" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="60" height="60" alt="Twitter" style="margin: 10px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/your-invite">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="40" height="40" alt="Discord"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/your-invite" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="60" height="60" alt="Discord" style="margin: 10px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/1234567890">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40" alt="WhatsApp"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/1234567890" style="text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="60" height="60" alt="WhatsApp" style="margin: 10px;"/>
   </a>
 </div>
+
