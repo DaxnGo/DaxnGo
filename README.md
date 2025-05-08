@@ -12,17 +12,6 @@
 
 ## 🌐 Let's Connect!
 
-<p align="center">
-  <a href="mailto:your@email.com">
-    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/email.png" height="48" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/linkedin.png" height="48" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
-    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/discord.png" height="48" alt="Discord"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/KelloVerra/KelloVerra/main/assets/portfolio.png" height="48" alt="Portfolio"/>
-  </a>
+<p align="left">
+<a href="https://linkedin.com/in/matthew_pangemanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew_pangemanan" height="30" width="40" /></a>
 </p>
