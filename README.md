@@ -20,7 +20,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" style="margin: 10px;"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" alt="Tailwind CSS" style="margin: 10px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60" alt="Tailwind CSS" style="margin: 10px;"/>
 </div>
 
 ## 🌐 Let's Connect!
