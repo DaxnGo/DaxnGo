@@ -6,7 +6,7 @@
   <span style="color:#ff7c43">Anime Illustrator</span>&nbsp;&nbsp;
   <span style="color:#2b6777">Experienced UI/UX Designer</span>&nbsp;&nbsp;
   <span style="color:#4a5d79">Road to Japan</span>
-</div>>
+</div>
 
 <h1 align="left">Hellow! Nice to meet ya 👋</h1>
 
