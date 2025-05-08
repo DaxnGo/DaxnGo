@@ -1,12 +1,20 @@
 <h1 align="center">🍞 DaxnGo!</h1>
-<div align="center" style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin: 10px 0;">
-  <span style="color:#5a656b">Front End Developer</span>&nbsp;&nbsp;
-  <span style="color:#4a5d79">Re : Zero Lover</span>&nbsp;&nbsp;
-  <span style="color:#7a5195">A Fan of Japanese Culture</span><br>
-  <span style="color:#ff7c43">Anime Illustrator</span>&nbsp;&nbsp;
-  <span style="color:#2b6777">Experienced UI/UX Designer</span>&nbsp;&nbsp;
-  <span style="color:#4a5d79">Road to Japan</span>
-</div>
+<table width="100%" bgcolor="#f5f5f5">
+  <tr>
+    <td align="center">
+      <b>Front End Developer</b>&nbsp;&nbsp;&nbsp;
+      <b><span style="color:#4a5d79">Re : Zero Lover</span></b>&nbsp;&nbsp;&nbsp;
+      <b><span style="color:#7a5195">A Fan of Japanese Culture</span></b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b><span style="color:#ff7c43">Anime Illustrator</span></b>&nbsp;&nbsp;&nbsp;
+      <b><span style="color:#2b6777">Experienced UI/UX Designer</span></b>&nbsp;&nbsp;&nbsp;
+      <b><span style="color:#4a5d79">Road to Japan</span></b>
+    </td>
+  </tr>
+</table>
 
 <h1 align="left">Hellow! Nice to meet ya 👋</h1>
 
