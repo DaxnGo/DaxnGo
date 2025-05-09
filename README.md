@@ -35,9 +35,6 @@
 ## 🌴 Recents Projects 🌴
 Here are some of the projects I’ve brought to life! From web development and data reporting to creative design and tech-driven solutions, each project reflects my passion for learning and building with purpose. Dive in and explore how I blend technical skills with a creative mindset to make each idea count.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
-
 ## 🌐 Let's Connect!
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
