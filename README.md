@@ -25,8 +25,6 @@
   &nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
   &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/e5a9db5c6c95d9986b877048e7455b6456aa616a2e44d974ef9e72f758826146/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" width="60" height="60" alt="Figma" style="margin: 5px;"/>
-  &nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="60" height="60" alt="Bootstrap" style="margin: 5px;"/>
   &nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="60" height="60" alt="Tailwind CSS" style="margin: 5px;"/>
@@ -35,7 +33,13 @@
 ## 📔 Currently Learning
 <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
   &nbsp;&nbsp;
-
+<img src="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
+  &nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/e5a9db5c6c95d9986b877048e7455b6456aa616a2e44d974ef9e72f758826146/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" width="60" height="60" alt="Figma" style="margin: 5px;"/>
+   &nbsp;&nbsp;
+  <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667
+" width="60" height="60" alt="Figma" style="margin: 5px;"/>
+  
 ## 🌐 Let's Connect!
 
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
