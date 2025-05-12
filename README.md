@@ -32,8 +32,9 @@
   <img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="60" height="60" alt="Tailwind CSS" style="margin: 5px;"/>
 </div>
 
-## 🌴 Recents Projects 🌴
-Here are some of the projects I’ve brought to life! From web development and data reporting to creative design and tech-driven solutions, each project reflects my passion for learning and building with purpose. Dive in and explore how I blend technical skills with a creative mindset to make each idea count.
+## 📔 Currently Learning
+<img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
+  &nbsp;&nbsp;
 
 ## 🌐 Let's Connect!
 
