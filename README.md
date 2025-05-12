@@ -43,6 +43,9 @@
    &nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="60" height="60" alt="Python" style="margin: 5px;"/>
 </div>
+
+### :fire: My Stats :
+
   
 ## 🌐 Let's Connect!
 
