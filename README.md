@@ -35,6 +35,8 @@
 <div align="left" style="margin-top: 20px; margin-bottom: 20px;">
 <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
   &nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/730577f274566576ff88e28ea042fea703254659dd140c5478ce1423f07f4855/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="60" height="60" alt="PHP" style="margin: 5px;"/>
+  &nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
   &nbsp;&nbsp;
   <img src="https://camo.githubusercontent.com/e5a9db5c6c95d9986b877048e7455b6456aa616a2e44d974ef9e72f758826146/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" width="60" height="60" alt="Figma" style="margin: 5px;"/>
