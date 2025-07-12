@@ -10,7 +10,7 @@
 
 <h1 align="left">Hellow! Nice to meet ya 👋</h1>
 
-**I'm Matthew Pangemanan, a tech enthusiast and final-year Computer & Network Engineering student who's passionate about building smart digital solutions from the ground up!**
+**I'm Matthew Pangemanan, a tech enthusiast and an incoming first-year Informatics student at Filkom Unklab who's passionate about building smart digital solutions from the ground up!**
 
 > _Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!_
 
