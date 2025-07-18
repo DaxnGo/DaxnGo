@@ -39,5 +39,17 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
 
 
 ## 📊 GitHub Stats
-
+<p align="center">
+  <img
+    src="https://github-readme-stats-nine-wine-62.vercel.app/api?username=DaxnGo&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
+    alt="GitHub Stats"
+    width="350"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miawwh&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=00BFFF"
+    alt="Top Languages"
+    width="312"
+  />
+</p>
 
