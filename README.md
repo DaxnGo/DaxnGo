@@ -37,3 +37,8 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
 
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matthewpangemanan&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
