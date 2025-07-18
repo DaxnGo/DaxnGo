@@ -34,10 +34,16 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
 ### 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DaxnGo&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <table align="center">
+    <tr>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com?user=DaxnGo&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaxnGo&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
