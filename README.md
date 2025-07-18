@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front_End_Developer-5a656b?style=for-the-badge" alt="Front End Developer"/>&nbsp;
-  <img src="https://img.shields.io/badge/Slice_of_Life-4a5d79?style=for-the-badge" alt="Slice of Life Obsessed"/>&nbsp;
-  <img src="https://img.shields.io/badge/Anime_&_J--Culture-7a5195?style=for-the-badge" alt="Anime & J-Culture Fan"/>&nbsp;
-  <br>
   <img src="https://img.shields.io/badge/Tech_Learner_for_Life-ff7c43?style=for-the-badge" alt="Tech Learner for Life"/>&nbsp;
   <img src="https://img.shields.io/badge/Cloud_&_Network-2b6777?style=for-the-badge" alt="Cloud & Network Enthusiast"/>&nbsp;
-  <img src="https://img.shields.io/badge/Boat_Goes_Binted-4a5d79?style=for-the-badge" alt="Boat Goes Binted"/>
+  <br>
+  <img src="https://img.shields.io/badge/VTuber_Enthusiast-8A2BE2?style=for-the-badge" alt="VTuber Enthusiast"/>&nbsp;
+  <img src="https://img.shields.io/badge/Manga_Collector-4F4F4F?style=for-the-badge" alt="Manga Collector"/>&nbsp;
+  <img src="https://img.shields.io/badge/Gunpla_Builder-0047AB?style=for-the-badge" alt="Gunpla Builder"/>
 </p>
 
 <h2 align="left">Hello! Nice to meet you 👋</h2>
