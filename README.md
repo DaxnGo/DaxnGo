@@ -17,13 +17,13 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
 > Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!
 
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" alt="My Core Technologies" />
 </p>
 
-### 🌐 Let's Connect!
+## 🌐 Let's Connect!
 
 <p align="left">
   <a href="mailto:matthewpangemanan15@gmail.com">
