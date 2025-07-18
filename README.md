@@ -44,14 +44,13 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
   <img
     src="https://github-readme-stats-feop.vercel.app/api?username=DaxnGo&show_icons=true&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
     alt="GitHub Stats"
-    width="400"
-    height="200"
+    width="420"
   />
   &nbsp;&nbsp;
   <img
     src="https://github-readme-stats-feop.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
     alt="Top Languages"
-    width="400"
-    height="200"
+    width="420"
   />
 </p>
+
