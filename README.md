@@ -31,23 +31,6 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
 
 ---
 
-### 🔥 My GitHub Stats
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=DaxnGo&theme=vision-friendly-dark&hide_border=true&show_icons=true" alt="DaxnGo's GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaxnGo&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
 ### 🌐 Let's Connect!
 
 <p align="left">
