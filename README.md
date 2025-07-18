@@ -1,74 +1,66 @@
 <h1 align="center">🍞 DaxnGo!</h1>
-<div align="center" style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; margin: 10px 0;">
-  <span style="color:#5a656b">Front End Developer</span>&nbsp;&nbsp;
-  <span style="color:#4a5d79">Slice of Life Obsessed</span>&nbsp;&nbsp;
-  <span style="color:#7a5195">Anime & J-Culture Fan</span><br>
-  <span style="color:#ff7c43">Tech Learner for Life</span>&nbsp;&nbsp;
-  <span style="color:#2b6777">Cloud & Network Enthusiast</span>&nbsp;&nbsp;
-  <span style="color:#4a5d79">Boat Goes Binted</span>
-</div>
 
-<h1 align="left">Hellow! Nice to meet ya 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Front_End_Developer-5a656b?style=for-the-badge" alt="Front End Developer"/>&nbsp;
+  <img src="https://img.shields.io/badge/Slice_of_Life-4a5d79?style=for-the-badge" alt="Slice of Life Obsessed"/>&nbsp;
+  <img src="https://img.shields.io/badge/Anime_&_J--Culture-7a5195?style=for-the-badge" alt="Anime & J-Culture Fan"/>&nbsp;
+  <br>
+  <img src="https://img.shields.io/badge/Tech_Learner_for_Life-ff7c43?style=for-the-badge" alt="Tech Learner for Life"/>&nbsp;
+  <img src="https://img.shields.io/badge/Cloud_&_Network-2b6777?style=for-the-badge" alt="Cloud & Network Enthusiast"/>&nbsp;
+  <img src="https://img.shields.io/badge/Boat_Goes_Binted-4a5d79?style=for-the-badge" alt="Boat Goes Binted"/>
+</p>
 
-**I'm Matthew Pangemanan, a tech enthusiast and an incoming first-year Informatics student at Filkom Unklab who's passionate about building smart digital solutions from the ground up!**
+<h2 align="left">Hello! Nice to meet you 👋</h2>
 
-> _Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!_
+I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informatics student at Filkom Unklab, passionate about building smart digital solutions from the ground up!
 
-###
+> Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!
 
-## ⌨️ Technologies I Wield
+---
+### 🛠️ My Tech Stack
 
-<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://camo.githubusercontent.com/49179b69f7956cc4b5e5e7987d011103b7e3ffc20c55ca4a43c8ff214c3b6796/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="60" height="60" alt="HTML5" style="margin: 5px;"/>
-  &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/a266b2536a9f4e1b8dc325ca89d9ce8e7f323c1e140f8b830a42f474a56e3b4c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="60" height="60" alt="CSS3" style="margin: 5px;"/>
-  &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
-  &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/6b1bf7b8b619209db3380bb7d254b3aa8eacd86d708ee47c4efd90c3e770c190/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="60" height="60" alt="Bootstrap" style="margin: 5px;"/>
-  &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/f383e4b2c5e8c2ca73221c29ef270d55d82eb3beeb79bd6b409dcb6ab64a4b7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e64" width="60" height="60" alt="Tailwind CSS" style="margin: 5px;"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" alt="My Core Technologies" />
+</p>
 
-## 📔 Currently Learning
+### 🌱 Currently Learning
 
-<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
-<img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
-  &nbsp;&nbsp;
-<img src="https://camo.githubusercontent.com/730577f274566576ff88e28ea042fea703254659dd140c5478ce1423f07f4855/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="60" height="60" alt="PHP" style="margin: 5px;"/>
-  &nbsp;&nbsp;
-<img src="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="60" height="60" alt="JavaScript" style="margin: 5px;"/>
-  &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/e5a9db5c6c95d9986b877048e7455b6456aa616a2e44d974ef9e72f758826146/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" width="60" height="60" alt="Figma" style="margin: 5px;"/>
-   &nbsp;&nbsp;
-  <img src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="60" height="60" alt="Python" style="margin: 5px;"/>
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,figma,python" alt="Currently Learning" />
+</p>
 
-## 🔥 My Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaxnGo&theme=dark)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 My GitHub Stats
 
-## 🌐 Let's Connect!
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DaxnGo&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+</p>
 
-<div align="left" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="mailto:matthewpangemanan15@gmail.com" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/d214a87558bbcd4e84b79156ad3f6d92e84863431cb968221dba4496f219901d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676d61696c" width="60" height="60" alt="Gmail" style="margin: 5px;"/>
+---
+
+### 🌐 Let's Connect!
+
+<p align="left">
+  <a href="mailto:matthewpangemanan15@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/mattcodes/" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/b6eef9807c0db96d1148c56d6b5257c10a4650500fdf8a15caeae46be8a918d6/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d696e7374616772616d" width="60" height="60" alt="Instagram" style="margin: 5px;"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/matthew-pangemanan/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/hellopassingby" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/a5ec3d9868e7f388ced1030a3222eb6c2e4b0d53c1bf5df830aff7e0d59a8ea5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74776974746572" width="60" height="60" alt="Twitter" style="margin: 5px;"/>
+  &nbsp;
+  <a href="https://www.instagram.com/mattcodes/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/your-invite" style="text-decoration: none;">
-    <img src="https://camo.githubusercontent.com/1f41c708a67233512bef2bb4600f9bed1bd0bff23a77a1a74130294d2f5a62a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d646973636f7264" width="60" height="60" alt="Discord" style="margin: 5px;"/>
+  &nbsp;
+  <a href="https://twitter.com/hellopassingby">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/matthew-pangemanan/" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn" style="margin: 5px;"/>
+  &nbsp;
+  <a href="https://discord.gg/your-invite-code"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
   </a>
-</div>
+</p>
