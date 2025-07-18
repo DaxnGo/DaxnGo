@@ -23,25 +23,12 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" alt="My Core Technologies" />
 </p>
 
-## 🌐 Let's Connect!
 
-<p align="left">
-  <a href="mailto:matthewpangemanan15@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/matthew-pangemanan/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/mattcodes/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/hellopassingby">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/your-invite-code"> <img src="https://skillicons.dev/icons?i=discord" alt="Discord"/>
-  </a>
-</p>
+## 🌐 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:matthewpangemanan15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-pangemanan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mattcodes/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hellopassingby)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-invite-code)
+
