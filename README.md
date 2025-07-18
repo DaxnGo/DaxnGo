@@ -48,7 +48,7 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-feop.vercel.app/api/top-langs/?username=DaxnGo&layout=normal&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
+    src="https://github-readme-stats-feop.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
     alt="Top Languages"
     width="420"
   />
