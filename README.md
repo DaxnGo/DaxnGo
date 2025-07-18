@@ -23,12 +23,6 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind" alt="My Core Technologies" />
 </p>
 
-### 🌱 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,figma,python" alt="Currently Learning" />
-</p>
-
 ---
 
 ### 🌐 Let's Connect!
