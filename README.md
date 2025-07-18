@@ -17,7 +17,7 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
 > Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!
 
 
-## 💻 My Tech Stack
+## 💻 Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](#)
