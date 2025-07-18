@@ -35,3 +35,5 @@ I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informa
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hellopassingby)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-invite-code)
 
+
+## 📊 GitHub Stats
