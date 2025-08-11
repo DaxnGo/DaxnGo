@@ -12,7 +12,7 @@
 
 <h2 align="left">Hello! Nice to meet you 👋</h2>
 
-I'm **Matthew Pangemanan**, a tech enthusiast and an incoming first-year Informatics student at Filkom Unklab, passionate about building smart digital solutions from the ground up!
+I'm **Matthew Pangemanan**, a tech enthusiast and first-year Informatics student at Filkom Unklab with a passion for building smart digital solutions from the ground up.
 
 > Technology isn't just my field of study—it's where I create, explore, and bring ideas to life 🚀!
 
