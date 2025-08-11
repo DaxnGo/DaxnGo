@@ -40,17 +40,17 @@ I'm **Matthew Pangemanan**, a tech enthusiast and first-year Informatics student
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img
     src="https://github-readme-stats-feop.vercel.app/api?username=DaxnGo&show_icons=true&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
     alt="GitHub Stats"
-    width="420"
+    height="165"
   />
-  &nbsp;&nbsp;
   <img
     src="https://github-readme-stats-feop.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
     alt="Top Languages"
-    width="420"
+    height="165"
   />
-</p>
+</div>
+
 
