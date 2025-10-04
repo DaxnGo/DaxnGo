@@ -43,13 +43,13 @@ I'm **Matthew Pangemanan**, a tech enthusiast and first-year Informatics student
 
 <div align="center">
   <img
-    src="https://github-readme-stats-558p.vercel.app/api?username=DaxnGo&show_icons=true&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
+    src="https://github-readme-stats-fznk.vercel.app/api?username=DaxnGo&show_icons=true&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
     alt="GitHub Stats"
     height="165"
   />
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-558p.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
+    src="https://github-readme-stats-fznk.vercel.app/api/top-langs/?username=DaxnGo&layout=compact&theme=default&hide_border=false&border_radius=10&border_color=CCCCCC"
     alt="Top Languages"
     height="165"
   />
